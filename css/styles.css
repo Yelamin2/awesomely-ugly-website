@@ -1,0 +1,40 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=Josefin+Sans&display=swap');
+
+body {
+    margin: 10;
+    padding: 10;
+    font-family: "Dancing Script", cursive;
+}
+header {
+    align-content: center;
+    text-align: center;
+    background-color: bisque;
+    
+}
+
+img {
+    float: right;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    width: 500px;
+}
+
+button {
+    background-color: #ff2211;
+    border: .5px solid crimson;
+    border-radius: 10px;
+    color: #fff;
+    padding: 8px;
+  }
+
+footer {
+    position: relative;
+    text-align: center;
+    /*background-color: aqua;*/
+
+}
+
+
+
